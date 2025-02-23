@@ -1,1 +1,1 @@
-# simon-says-game
+# Simon-says-game
